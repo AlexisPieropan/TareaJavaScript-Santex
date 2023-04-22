@@ -1,5 +1,5 @@
 //CONSIGNA N°1:
-/*
+//Se agrego un html para que se pueda visualizar como se pinta la piramide 
 const piramide= (repeticion)=>{
     for(let i=0; i<=repeticion ;i++){
         for(let j=1; j<=i ;j++){
@@ -11,7 +11,7 @@ const piramide= (repeticion)=>{
 }
  
 piramide(6); //LLAMADA A LA FUNCION 
-*/
+
 
 //----------------------------------------------------------
 //CONSIGNA N°2
