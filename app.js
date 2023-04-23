@@ -97,9 +97,3 @@ console.log(carrito2);
 
 carrito2.agregarProducto("Dulce de leche",5,7);
 console.log(carrito2);
-
-let nuevoArray=[2,5,3,8,1]
-
-let mostrar=nuevoArray.toSorted;
-
-console.log(mostrar);
